@@ -1,2 +1,2 @@
 # Retail-Analysis-with-Walmart-Data
-n ideal ML algorithm will predict demand accurately and ingest factors like economic conditions including CPI, Unemployment Index, etc
+ideal ML algorithm will predict demand accurately and ingest factors like economic conditions including CPI, Unemployment Index, etc
